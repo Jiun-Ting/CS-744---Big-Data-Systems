@@ -1,4 +1,4 @@
-# Courseworks and final report of Big Data Systems
+# Courseworks and Final Report of Big Data Systems
 
 * Apache Spark Deployment and Testing: Deployed Hadoop and Spand on Cloudlab and conducted experiments to observe the result of RDD partitioning, RDD persistence and fault tolerance by implementing Pagerank.
 
